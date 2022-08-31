@@ -207,7 +207,7 @@ git clone https://github.com/jethliya-balaji/DevHub.git
 [//]: contributor-faces
 
 * Stack - Backend & Design
-* Email - jethliya.balaji1@gmail.com 
+* Email - jethliya.balaji1@gmail.com <br/>
   __Feedback from Omolara__ <br/>
 *I'm completely blown away by your thoughtfulness and dedication to this project. You went above and beyond to make this work. Thank you so much for your hard work! I couldn't have wished for a better teammate*
 
@@ -233,8 +233,8 @@ __Ishika Agrawal__
 * Stack - Frontend
 * Email - ishikaagrawal0711@gmail.com <br/>
 __Feedback from Balaji__ <br/>
-*You are one of the best front-end developers I have ever encountered, yet I saw that you fell short of the expectations that were placed on you. I always value your work, but you should collaborate with others and seek assistance when necessary.* <br/>
-__Feedback from Omolara__
+*You are one of the best front-end developers I have ever encountered, yet I saw that you fell short of the expectations that were placed on you. I always value your work, but you should collaborate with others and seek assistance when necessary.* 
+__Feedback from Omolara__ <br/>
 *Weldone on the effort you put to make this work*
 
 ## Acknowledgement
